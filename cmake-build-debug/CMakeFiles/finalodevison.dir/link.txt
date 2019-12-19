@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/finalodevison.dir/main.c.o  -o finalodevison 

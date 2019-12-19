@@ -1,0 +1,3 @@
+/home/fuck4life/CLionProjects/finalodevison/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/fuck4life/CLionProjects/finalodevison/cmake-build-debug/CMakeFiles/finalodevison.dir
+/home/fuck4life/CLionProjects/finalodevison/cmake-build-debug/CMakeFiles/edit_cache.dir
